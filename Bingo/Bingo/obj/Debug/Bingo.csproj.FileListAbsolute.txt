@@ -1,0 +1,7 @@
+Z:\IKT\Bingo\Bingo\Bingo\bin\Debug\Bingo.exe.config
+Z:\IKT\Bingo\Bingo\Bingo\bin\Debug\Bingo.exe
+Z:\IKT\Bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+Z:\IKT\Bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+Z:\IKT\Bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+Z:\IKT\Bingo\Bingo\Bingo\obj\Debug\Bingo.exe
+Z:\IKT\Bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
